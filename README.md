@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 🌟 I make open source stuff and free 💻  
 - 🌐 Our Team's Website: [Cyberguild.github.io](https://Cyberguild.github.io/) - [🔴 Offline]  
 --- 
+
+
 ## 🛠️ Languages and Tools
 - Junior Developer 👨‍💻
     
@@ -19,6 +21,41 @@ Here are some ideas to get you started:
 ![BatchFile](https://img.shields.io/badge/BatchFile-1E1E1E?style=for-the-badge&logo=windows&logoColor=white)  
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
 ---
+
+
+<p align="center">
+  <a href="https://github.com/JempUnkn">
+    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=JempUnkn&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/JempUnkn?tab=followers">
+    <img height="25" src="https://img.shields.io/github/followers/JempUnkn?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  </a>
+  <a href="https://github.com/JempUnkn?tab=stars">
+    <img height="25" src="https://img.shields.io/github/stars/JempUnkn?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+  </a>
+</p>
+
+<br>
+<h2 align="center">SKILLS:</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,html,css" alt="Skills"/>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://discord.com/users/904046446666469397" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Contact%20Me-0088cc?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=JempUnkn&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" alt="GitHub Stats"/>
+</p> 
+
+--- 
 <en>
 <div align="center">
 
