@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a member of the Cyberguild group and ... Nah, I'd adapt 
 - 🌟 I make open source stuff and free 💻  
 - 🌐 Our Team's Website: [Cyberguild.github.io](https://Cyberguild.github.io/) - [🔴 Offline]
-- 🕶️ My protfolio: [Jempunkn.github.io](https://jempunin.github.io/) - [🟢 Online]
+- 🕶️ My protfolio: [Jempunkn.github.io](https://jempunkn.github.io/) - [🟢 Online]
 --- 
 
 
