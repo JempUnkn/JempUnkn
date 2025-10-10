@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Analista+de+seguranca;Desenvolvedor;Suporte+tecnico;" alt="Letrinhas digitando" /></a></br></p>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Security+Analyst;Developer;Technical+Support;" alt="Typing text" />
+    </a>
 </p>
 
 <p align="center">
@@ -29,6 +31,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/BatchFile-1E1E1E?style=for-the-badge&logo=windows&logoColor=white" alt="BatchFile">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/C-2C2D72?style=for-the-badge&logo=C&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Assembly-6E4C1E?style=for-the-badge&logo=gnu&logoColor=white" alt="Assembly">
 </p>
 
 ---
