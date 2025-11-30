@@ -1,18 +1,7 @@
 # Hi there, I'm Jemp👋 
-## 🚀 About Me
-Here are some ideas to get you started:
-- 🔭 I’m currently working on [SpotMod](https://github.com/JempUnkn/SpotMod)
-- 🌱 I’m currently learning Python and Lua
-- 📫 How to reach me: [linktree](https://linktr.ee/CYBERGUILD)
-- ⚡ Fun fact: I am a member of the Cyberguild group and ... Nah, I'd adapt 
-- 🌟 I make open source stuff and free 💻  
-- 🌐 Our Team's Website: [Cyberguild.github.io](https://Cyberguild.github.io/) - [🔴 Offline]
-- 🕶️ My protfolio: [Jempunkn.github.io](https://jempunkn.github.io/) - [🟢 Online]
---- 
 
-
----
-
+I’m a technology enthusiast passionate about information security, development, and solving technical problems.
+I enjoy exploring how things work under the hood, creating tools, automating processes, and learning something new every day.
 
 --- 
 
