@@ -45,10 +45,8 @@ I enjoy exploring how things work under the hood, creating tools, automating pro
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jempunkn&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Contribution Graph" />
+  <img src="https://linuskang.github.io/linuskang/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
-
-
 
 --- 
 <en>
