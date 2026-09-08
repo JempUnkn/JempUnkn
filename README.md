@@ -45,7 +45,7 @@ I enjoy exploring how things work under the hood, creating tools, automating pro
 
 
 <div align="center">
-  <img src="./snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/JempUnkn/JempUnkn/refs/heads/main/snake.svg" alt="Contribution Snake" />
 </div>
 
 --- 
