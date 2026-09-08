@@ -45,7 +45,7 @@ I enjoy exploring how things work under the hood, creating tools, automating pro
 
 
 <div align="center">
-  <img src="https://linuskang.github.io/linuskang/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="./snake.svg" alt="Contribution Snake" />
 </div>
 
 --- 
